@@ -17,7 +17,7 @@ html, body {
 }
 
 .left, .right {
-  margin: 5px;
+  margin: 10px;
   max-width: 50%;
   flex: 1;
   display: flex;
