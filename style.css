@@ -38,6 +38,10 @@ section {
     background-color: #EDFEFE;
 }
 
+footer {
+    background-color: #FEF8ED;
+}
+
 #intro .profile-img {
     width: 300px;
     border-radius: 50%;
