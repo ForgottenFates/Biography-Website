@@ -36,6 +36,11 @@ section {
     text-align: center;
 }
 
-#hero .profile-img {
+#intro .profile-img {
     width: 300px;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
 }
